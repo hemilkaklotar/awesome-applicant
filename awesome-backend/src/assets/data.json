@@ -1,0 +1,12 @@
+{
+  "applicants": [
+    {
+      "name": "Hemil Kaklotar",
+      "email": "hemilkaklotar@gmail.com",
+      "address": "India",
+      "age": 22,
+      "gender": "male",
+      "mobileNumber": "9000000009"
+    }
+  ]
+}

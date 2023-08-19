@@ -1,0 +1,20 @@
+{
+  "name": "awesome-app",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "setup": "cd ./awesome-backend && pnpm install && cd ../awesome-frontend && pnpm install && cd ..",
+    "setup-npm": "cd ./awesome-backend && npm install && cd ../awesome-frontend && npm install && cd ..",
+    "setup-yarn": "cd ./awesome-backend && yarn install && cd ../awesome-frontend && yarn install && cd .."
+  },
+  "keywords": [
+    "typescript",
+    "next.js",
+    "node.js",
+    "drizzle",
+    "drizzle-orm",
+    "mono-repo"
+  ],
+  "author": "hemilkaklotar@gmail.com",
+  "license": "ISC"
+}
